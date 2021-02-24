@@ -35,7 +35,7 @@ export default function App() {
     return acc;
   }, 0);
 
-  document.title = `Mikan testiappi`;
+  document.title = `Mikan testiappi123`;
 
   const results = data.result.near_earth_objects[day];
   return (
